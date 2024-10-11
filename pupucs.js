@@ -7,9 +7,10 @@
 
 
 把获取的refreshToken和备注(非必须)填到文件pupuCookie.txt里(第一次运行会自动创建), 多账号换行或&或@隔开
+refreshToken#备注
 export pupuCookie="refreshToken#备注"
 
-cron: 26 8,19 * * *
+cron: 26 8,17 * * *
 const $ = new Env("朴朴超市");
 */
 function _0x48fa(_0x54f820, _0x12bebc) {
