@@ -2,6 +2,7 @@
 永辉生活 v1.01
 
 登录前开启捉包, 捉登录包响应里面的uid和refreshToken
+捉包连接：https://api.yonghuivip.com/web/passport/member/signIn/
 把捉包或者网页登录获取的uid,refreshToken和备注(非必须)填到文件 yhshCookie.txt 里(第一次运行会自动创建), 多账号换行写
 uid#refreshToken#备注
 例子: 
